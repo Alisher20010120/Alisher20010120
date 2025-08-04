@@ -3,7 +3,7 @@
 <p align="center">
   <b>Java Backend Developer</b> | <b>Spring Boot Specialist</b> | <b>Telegram Bot Architect</b>
 </p>
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 ---
 
 ### 🚀 About Me
