@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Alisher Nayimov 👋</h1>
 
-<!--
-**Alisher20010120/Alisher20010120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Java Backend Developer</b> | <b>Spring Boot Specialist</b> | <b>Telegram Bot Architect</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+🎓 I studied at <b>PDP Academy</b>, focusing on **Java Backend Development**.  
+💼 I build backend systems using **Spring Boot**, **PostgreSQL**, **JWT**, and **WebSocket** technologies.  
+🤖 I create powerful **Telegram Bots** and secure REST APIs.  
+🐧 I use **Linux** and basic **Docker** in my development workflow.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** `Java 17`
+- **Frameworks:** `Spring Boot`, `Spring Security`, `Spring Data JPA`
+- **Databases:** `PostgreSQL`, `MySQL`
+- **Tools:** `Postman`, `Git`, `Docker`, `Linux (Fedora)`
+- **Other:** `JWT`, `WebSocket`, `Telegram Bot API`, `Swagger`, `MultipartFile`, `HikariCP`
+
+---
+
+### 🧠 What I Know Best
+
+- ✅ Writing clean and maintainable backend code
+- ✅ Securing apps with JWT + Spring Security
+- ✅ Building async real-time systems with WebSocket
+- ✅ Developing Telegram bots with rich logic
+- ✅ Using Swagger for API docs
+- ✅ Working with file uploads via MultipartFile
+
+---
+
+### 📫 How to reach me
+
+- Email: **nayimovalisher2001@gmail.com**
+- Telegram: [@Ali_20_000]
+- GitHub: [Alisher20010120](https://github.com/Alisher20010120)
+-Linkedin:(https://www.linkedin.com/in/alisher-nayimov-3ab162296/)
+---
+
+<p align="center">
+  <i>"Strong backend – smooth frontend!"</i>
+</p>
+
